@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/giet12aei033/argocd.git
     targetRevision: main
-    path: application
+    path: applicatio
   destination:
     server: https://kubernetes.default.svc
     namespace: nonprod
